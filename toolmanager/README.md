@@ -1,6 +1,3 @@
-![avatar](./Login.jpg)
-
-![avatar](./MyInfo.png)
 ### 问题
 #### checkbox
 使用CheckboxListTile的话，选框与文字之间会有较大的间隙，所以采用checkbox加Text组合，   
