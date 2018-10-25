@@ -1,8 +1,9 @@
-### 问题
-#### checkbox
-使用CheckboxListTile的话，选框与文字之间会有较大的间隙，所以采用checkbox加Text组合，   
-再为Text添加点击事件，与checkbox绑定   
+# toolmanager
 
-#### tab栏的子页面 
-含有tab栏的子页面，如果使用Container添加背景的话，两侧会出现白边，   
-目前只能先为该页面添加一张相近的背景色解决。
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
+
