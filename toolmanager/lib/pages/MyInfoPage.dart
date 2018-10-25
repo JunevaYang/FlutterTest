@@ -25,7 +25,9 @@ class MyInfoPageState extends State<MyInfoPage> {
           height: MediaQuery.of(context).size.height,
           decoration: new BoxDecoration(
               image: new DecorationImage(
-                  image: AssetImage('images/myinfobg.jpg'))),
+                  image: AssetImage('images/myinfobg.jpg'),
+                  fit: BoxFit.cover
+              )),
           child: new Column(
             children: <Widget>[
               new SizedBox(
